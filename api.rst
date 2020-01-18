@@ -12,7 +12,7 @@ Authentication related requests use both https://www.epicgames.com and https://a
 Authentication Flow
 ~~~~~~~~~~~~~~
 TODO! For now, I recommend you check out these implementations on how to authenticate:
-(https://gist.github.com/Terbau/9a07849fb30c0232af730265c327e27c)[Python Auth Flow by Terbau]
+(https://gist.github.com/Terbau/9a07849fb30c0232af730265c327e27c) [Python Auth Flow by Terbau]
 
 
 

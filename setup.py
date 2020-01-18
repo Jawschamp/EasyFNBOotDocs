@@ -21,15 +21,14 @@ extras_require = {
 }
 
 setuptools.setup(
-    name="fortnitepy",
-    url="https://github.com/Terbau/fortnitepy",
+    name="EasyFN-Endpoints",
+    url="https://github.com/JawsChamp/EasyFNBOotDocs",
     project_urls={
-        "Documentation": "https://fortnitepy.readthedocs.io/en/latest/",
-        "Issue tracker": "https://github.com/Terbau/fortnitepy/issues",
+        "Documentation": "https://EasyFNBOotDocs.readthedocs.io/en/latest/",
     },
     version=version,
-    author="Terbau",
-    description="Library for interacting with fortnite services",
+    author="JawsChamp",
+    description="Docs For Fortnite Endpoints",
     long_description=long_description,
     license='MIT',
     long_description_content_type="text/markdown",
@@ -38,7 +37,7 @@ setuptools.setup(
     packages=setuptools.find_packages(),
     python_requires='>=3.5.3',
     classifiers=[
-        'License :: OSI Approved :: MIT License',
+        'License :: MIT License',
         'Intended Audience :: Developers',
         'Natural Language :: English',
         'Operating System :: OS Independent',

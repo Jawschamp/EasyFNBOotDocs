@@ -17,12 +17,12 @@ sys.path.insert(0, os.path.abspath('./..'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'fortnitepy'
-copyright = '2019, Terbau'
-author = 'Terbau'
+project = 'EasyFN-Endpoints'
+copyright = '2020, JawsChamp'
+author = 'JawsChamp'
 
 # The full version, including alpha/beta/rc tags
-release = '0.0.1'
+release = '0.0.2'
 
 
 # -- General configuration ---------------------------------------------------

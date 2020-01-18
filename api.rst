@@ -15,7 +15,7 @@ TODO! For now, I recommend you check out these implementations on how to authent
 (https://gist.github.com/Terbau/9a07849fb30c0232af730265c327e27c) [Python Auth Flow by Terbau]
 
 Account Public Service
-
+~~~~~~~~~~~~~~
 
 
 Stats Reference

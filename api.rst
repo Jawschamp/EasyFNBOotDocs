@@ -5,32 +5,13 @@ API Reference
 
 Auth
 ------
-
-.. autoclass:: Client
     :members:
 
-Public
+Public Endpoints
 ------------
 
 .. class:: PartyPrivacy
 
-	Specifies the privacy used in parties created by the client.
-
-	.. attribute:: PUBLIC
-
-		Sets privacy to completely public. This means everyone can join the party, even friends of friends.
-	.. attribute:: FRIENDS_ALLOW_FRIENDS_OF_FRIENDS
-
-		Sets privacy to only allow friends but friends of friends are able to join.
-	.. attribute:: FRIENDS
-
-		Sets privacy to friends only.
-	.. attribute:: PRIVATE_ALLOW_FRIENDS_OF_FRIENDS
-
-		Sets privacy to private but allows friends of friends.
-	.. attribute:: PRIVATE
-
-		Sets privacy to private without the possibility of friends of friends joining.
 
 .. class:: V2Input
 

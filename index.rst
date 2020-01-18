@@ -2,7 +2,7 @@ Welcome to the EasyFN-Endpoints documentation!
 ======================================
 
 ---
-This Project is hevily thanks to `Armisto, Gist check him out, he's a BEAST! <https://github.com/Armisto>`_
+This Project is hevily in part thanks to `Armisto, Gist check him out, he's a BEAST! <https://github.com/Armisto>`_
 ---
 
 .. toctree::
@@ -12,7 +12,6 @@ This Project is hevily thanks to `Armisto, Gist check him out, he's a BEAST! <ht
    api
    faq
    changelog
-
 
 
 If you still can't find what you are looking for, try one of these pages:

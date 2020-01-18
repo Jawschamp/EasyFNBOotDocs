@@ -3,6 +3,7 @@ Welcome to the EasyFN-Endpoints documentation!
 
 ---
 This Project is hevily in part thanks to `Armisto, Gist check him out, he's a BEAST! <https://gist.github.com/Amrsatrio>`_
+
 `GitHub <https://github.com/Amrsatrio>`_
 ---
 

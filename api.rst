@@ -5,12 +5,12 @@ API Reference
 
 Auth
 ------
-    :members:
+.. :members:
 
 Public Endpoints
 ------------
 
-.. class:: PartyPrivacy
+.. PartyPrivacy::
 
 
 .. class:: V2Input

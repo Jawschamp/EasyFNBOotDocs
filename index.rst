@@ -1,8 +1,9 @@
 Welcome to the EasyFN-Endpoints documentation!
 ======================================
 ---
-This Project is hevily thanks to Armisto! [Gist check him out, he's a BEAST!](https://gist.github.com/Amrsatrio)
+This Project is hevily thanks to Armisto! [Gist check him out, he's a BEAST!](https://gist.github.com/Amrsatrio) 
 ---
+
 .. toctree::
    :maxdepth: 3
    

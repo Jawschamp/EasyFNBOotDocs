@@ -5,7 +5,8 @@ API Reference
 
 Auth
 ------
-.. :members:
+~~~~~~~~~~~~~~
+.. autoclass::
 
 Public Endpoints
 ------------

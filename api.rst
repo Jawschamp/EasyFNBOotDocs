@@ -3,7 +3,7 @@
 API Reference
 =============
 
-Auth
+Authentication
 -------------------------
 
 
@@ -16,7 +16,7 @@ TODO! For now, I recommend you check out these implementations on how to authent
 
 Account Public Service
 ~~~~~~~~~~~~~~
-
+=============
 
 Stats Reference
 ~~~~~~~~~~~~~~

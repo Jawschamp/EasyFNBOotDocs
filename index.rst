@@ -1,7 +1,8 @@
 Welcome to the EasyFN-Endpoints documentation!
 ======================================
+
 ---
-This Project is hevily thanks to Armisto! [Gist check him out, he's a BEAST!](https://gist.github.com/Amrsatrio) 
+Thanks to `Armisto  <https://github.com/Armisto>`_ and `Luc1412 <https://github.com/Luc1412>`_ for suggestions and help with this update.
 ---
 
 .. toctree::

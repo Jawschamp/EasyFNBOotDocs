@@ -18,7 +18,7 @@ sys.path.insert(0, os.path.abspath('./..'))
 # -- Project information -----------------------------------------------------
 
 project = 'EasyFN-Endpoints'
-copyright = '2020 JawsChamp'
+copyright = '2020, _JawsChamp'
 author = 'JawsChamp'
 
 # The full version, including alpha/beta/rc tags

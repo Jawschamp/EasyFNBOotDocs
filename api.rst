@@ -3,13 +3,13 @@
 API Reference
 =============
 
-Client
+Auth
 ------
 
 .. autoclass:: Client
     :members:
 
-Enumerations
+Public
 ------------
 
 .. class:: PartyPrivacy

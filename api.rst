@@ -1,4 +1,4 @@
-.. currentmodule:: fortnitepy
+.. currentmodule:: EasyFN-Endpoints
 
 API Reference
 =============

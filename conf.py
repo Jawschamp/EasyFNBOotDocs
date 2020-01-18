@@ -30,7 +30,13 @@ release = '0.0.1'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = []
+extensions = [
+    'sphinx.ext.autodoc', 
+    'sphinx.ext.coverage', 
+    'sphinx.ext.napoleon',
+    'sphinx.ext.intersphinx',
+    'sphinxcontrib_trio'
+]
 
 
 autodoc_member_order = 'bysource'

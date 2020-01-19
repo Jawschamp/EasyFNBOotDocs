@@ -21,13 +21,13 @@ BASE_URL_PROD_ALT = "https://account-public-service-prod.ak.epicgames.com/accoun
 
 BASE_URL_STAGE = "https://account-public-service-stage.ol.epicgames.com/account/"_
 
-	 * grant_type: | authorization_code; | fields: code
+	 * grant_type: authorization_code; | fields: code
    
-	 * grant_type: | client_credentials
+	 * grant_type: client_credentials
    
-	 * grant_type: | device_auth; | fields: | account_id, | device_id, | secret
+	 * grant_type: device_auth; | fields: account_id, device_id, secret
    
-	 * grant_type: | exchange_code; | fields: | exchange_code
+	 * grant_type: | exchange_code; | fields: exchange_code
    
 	 * grant_type: | external_auth; fields: | external_auth_type, | external_auth_token
    

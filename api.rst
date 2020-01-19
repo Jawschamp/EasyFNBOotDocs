@@ -27,13 +27,13 @@ BASE_URL_STAGE = "https://account-public-service-stage.ol.epicgames.com/account/
    
 	 * grant_type: device_auth; | fields: account_id, device_id, secret
    
-	 * grant_type: | exchange_code; | fields: exchange_code
+	 * grant_type: exchange_code; | fields: exchange_code
    
-	 * grant_type: | external_auth; fields: | external_auth_type, | external_auth_token
+	 * grant_type: external_auth; | fields: external_auth_type, external_auth_token
    
-	 * grant_type: otp; fields: otp, challenge
+	 * grant_type: otp; | fields: otp, challenge
    
-	 * grant_type: password; fields: username, password
+	 * grant_type: password; | fields: username, password
    
-	 * grant_type: refresh_token; fields: refresh_token
+	 * grant_type: refresh_token; | fields: refresh_token
    

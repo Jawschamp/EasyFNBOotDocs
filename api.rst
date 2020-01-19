@@ -16,8 +16,9 @@ TODO! For now, I recommend you check out these implementations on how to authent
 
 Account Service
 ~~~~~~~~~~~~~~
-BASE_URL_PROD = "https://account-public-service-prod.ol.epicgames.com/account/";
-BASE_URL_PROD_ALT = "https://account-public-service-prod.ak.epicgames.com/account/";
+BASE_URL_PROD = "https://account-public-service-prod.ol.epicgames.com/account/";_
+BASE_URL_PROD_ALT = "https://account-public-service-prod.ak.epicgames.com/account/";_
+
 BASE_URL_STAGE = "https://account-public-service-stage.ol.epicgames.com/account/";
 =============
 
